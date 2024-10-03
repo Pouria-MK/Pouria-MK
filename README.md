@@ -34,31 +34,31 @@ Languages and Simulators that I know and would like to work with
 <table align="center">
   <tr>
     <td align="center" width="96">
-      <a href="mailto:pooriamotahari@gmail.com">
+      <a href="https://www.python.org">
         <img src="blob/main/icons/python.svg" width="40"/>
       </a>
       <br>Python
     </td>
     <td align="center" width="96">
-      <a>
+      <a href="https://www.mathworks.com/products/matlab.html">
         <img src="blob/main/icons/matlab.svg" width="40"/>
       </a>
       <br>MATLAB
     </td>
     <td align="center" width="96">
-      <a>
+      <a href="https://www.comsol.com">
         <img src="blob/main/icons/comsol.svg" width="40"/>
       </a>
       <br>COMSOL
     </td>
     <td align="center" width="96">
-      <a>
+      <a href="https://www.gams.com">
         <img src="blob/main/icons/gams.svg" width="45"/>
       </a>
       <br>GAMS
     </td>
     <td align="center" width="96">
-      <a>
+      <a href="https://www.aspentech.com/en/">
         <img src="blob/main/icons/aspentech.svg" width="80"/>
       </a>
       <br><br>ASPENTECH
