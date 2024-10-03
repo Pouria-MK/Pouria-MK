@@ -34,7 +34,7 @@ Languages and Simulators that I know and would like to work with
 <table align="center">
   <tr>
     <td align="center" width="96">
-      <a>
+      <a href="mailto:pooriamotahari@gmail.com">
         <img src="blob/main/icons/python.svg" width="40"/>
       </a>
       <br>Python
