@@ -9,8 +9,9 @@
 
 
 <h4 align="center">
-I'm a major Chemical Engineering and minor Chemistry Bachelor's student at <a href="https://en.sharif.ir/"><b>Sharif University of Technology</b></a>.<br>
-- My fields of intrest is <b>Reaction Engineering</b>, <b>Process Systems Engineering</b>, and <b>Optimizations</b> in chemical engineering.<br>
+I'm a Chemical Process Engineer at <a href="https://pantan.co/"><b>PANTAN Co.</b></a>.<br>
+I graduated from <a href="https://en.sharif.ir/"><b>Sharif University of Technology</b></a> with a Bachelor's Chemical Engineering and minor Chemistry degree.<br>
+- My fields of intrest are <b>Reaction Engineering</b>, <b>Process Systems Engineering</b>, and <b>Optimizations</b> in chemical engineering.<br>
 - I’m currently learning Optimizations in Process Systems<br>
 - In my free time, I'd like to watch motorsports, listen to western country Music, and practice in perfumery.<be>
 
